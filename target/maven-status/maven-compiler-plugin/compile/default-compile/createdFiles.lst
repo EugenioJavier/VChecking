@@ -1,0 +1,14 @@
+VCheckerNpm.class
+model/response.class
+VChecker.class
+VCheckerArchiva.class
+VCheckerMaven.class
+VCheckerBower.class
+model/RespMavenCentral.class
+model/responseHeader.class
+model/RespArchiva.class
+model/artifactList.class
+model/doc.class
+model/params.class
+model/art.class
+VCheckerApplication.class
