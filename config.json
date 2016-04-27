@@ -1,0 +1,8 @@
+{"artifacts":[
+				{"artifact":"kurento-client","version":"6.2.0","server":"npmjs.com"},
+				{"artifact":"kurento-client","version":"5.0.3","server":"npmjs.com"},
+				{"artifact":"kurento-java","version":"6.1.0","server":"search.maven.org"},
+				{"artifact":"kurento-client","version":"6.2.0","server":"bower.io"},
+				{"artifact":"kurento-java","version":"6.1.1","server":"172.17.0.1"}
+			]	
+}
